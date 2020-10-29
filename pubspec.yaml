@@ -10,8 +10,3 @@ dependencies:
   flutter:
     sdk: flutter
   cryptoutils: ^0.4.0
-
-flutter:
-  plugin:
-    androidPackage: software.solid.fluttervlcplayer
-    pluginClass: FlutterVlcPlayerPlugin
